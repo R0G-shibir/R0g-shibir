@@ -1,5 +1,5 @@
  <center>
-<h1 align="center">~👋 Hi, I’m Fuad Ali Bakul  ~</h1>
+<h1 align="center">~👋 Hi, I’m Fuad  ~</h1>
 <br>
 <div align="left">
 
@@ -13,4 +13,14 @@
 
 **Student** | [**University of Rajshahi**](https://www.ru.ac.bd/) | 
 
-- :hammer_and_pick: c++
+
+ 🪟-11 & Arch Linux & KDE & VS Code & Iosevka / JetBrains Mono.
+- :hammer_and_pick:[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,github,git,arch,linux,)](https://skillicons.dev)
+
+<details>
+
+<summary>My Github Stats</summary>
+
+![My stats](https://github-readme-stats.vercel.app/api?username=R0G-shibir&show_icons=true&theme=tokyonight&hide=contribs)
+
+</details>
