@@ -3,15 +3,16 @@
 </p>
 
 ---
-<h1 align="center">~👋 Hi, I’m Fuad  ~</h1>
+
+<h1 align="center">~Hi, I’m Fuad 👋~</h1>
 
 ## 👨‍🎓 About Me
-- **Student** | [University of Rajshahi](https://www.ru.ac.bd/)  
+- **Student** | [University of Rajshahi](https://www.ru.ac.bd/) | **2Y1S** | 🇧🇩  
 - 🖥️ Arch Linux | Hyperland | Windows 11  
-- 💻 VS Code | NeoVim | JetBrains Mono  
+- 💻 VS Code | NeoVim | `JetBrains Mono` 
 - 🌱 Learning Data Structures, Algorithms, and Networking  
-- 🎯 Goal: Build projects, improve competitive programming, and explore systems programming  
-- 🎮 Always down for Valorant
+- 🎯 Goal: Build **🚀 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜**, improve **💻 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**, and explore **🖥 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**  
+- 😎 Always down for a Valorant match 
 
 ## 🛠️ Skills
 <p align="center">
@@ -44,7 +45,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fuad-ali-bakul-0a454a272/" target="_blank">LinkedIn</a> •
   <a href="https://discord.gg/pgeY87Xn" target="_blank">Discord</a> •
-  <a href="mailto:sbakul420@gamil.com">Email</a>
+  <a href="mailto:sbakul420@gmail.com">Email</a>
 </p>
-
----
