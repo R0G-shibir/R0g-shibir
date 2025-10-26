@@ -15,7 +15,9 @@
 
 
  🪟-11 & Arch Linux & KDE & VS Code & Iosevka / JetBrains Mono.
-- :hammer_and_pick:[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,github,git,arch,linux,)](https://skillicons.dev)
+
+#- :hammer_and_pick:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,github,git,arch,linux,)](https://skillicons.dev)
 
 <details>
 
