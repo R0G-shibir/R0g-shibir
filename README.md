@@ -1,24 +1,17 @@
- <center>
-<h1 align="center">~👋 Hi, I’m Fuad  ~</h1>
-<br>
-<div align="left">
-
- <div align="left">
-<img hight="150" width="800" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNkZWI3dHhvdTB5MXJyeHN3MTVwb3EycnM3ZXdvaDBmeTExdjB0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif">
-</div>
-
-</br>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNlYzFkYmpycmZja3p2YXg0NDJyeDl0YmpkeWtpMXh6am5xc2F0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF" style="max-width:100%; height:auto;">
+</p>
 
 ---
+<h1 align="center">~👋 Hi, I’m Fuad  ~</h1>
 
 ## 👨‍🎓 About Me
 - **Student** | [University of Rajshahi](https://www.ru.ac.bd/)  
-- 🪟 Windows 11 | Arch Linux | KDE Plasma  
-- 💻 VS Code | Iosevka / JetBrains Mono  
+- 🖥️ Arch Linux | Hyperland | Windows 11  
+- 💻 VS Code | NeoVim | JetBrains Mono  
 - 🌱 Learning Data Structures, Algorithms, and Networking  
 - 🎯 Goal: Build projects, improve competitive programming, and explore systems programming  
-
----
+- 🎮 Always down for Valorant
 
 ## 🛠️ Skills
 <p align="center">
@@ -49,14 +42,9 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/fuad-ali-bakul-0a454a272/" target="_blank">LinkedIn</a> •
+  <a href="https://discord.gg/pgeY87Xn" target="_blank">Discord</a> •
+  <a href="mailto:sbakul420@gamil.com">Email</a>
 </p>
 
 ---
-
-## 😎 Fun Facts
-- I can spend hours debugging a 2-line error 😅  
-- My favorite debugging tool is `cout << "hello"`  
-- Always experimenting with Ubuntu and terminal hacks
