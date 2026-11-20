@@ -7,7 +7,7 @@
 <h1 align="center">~Hi, I’m Fuad 👋~</h1>
 
 ## 👨‍🎓 About Me
-- **Student** | [University of Rajshahi](https://www.ru.ac.bd/) | **2Y1S** | 🇧🇩  
+- **Student** | [University of Rajshahi](https://www.ru.ac.bd/) | **3Y1S** | 🇧🇩  
 - 🖥️ Arch Linux | Hyperland | Windows 11  
 - 💻 VS Code | NeoVim | `JetBrains Mono` 
 - 🌱 Learning Data Structures, Algorithms, and Networking  
